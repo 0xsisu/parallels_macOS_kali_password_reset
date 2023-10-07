@@ -21,9 +21,7 @@ It took me multiple resources to get to where I needed and I decided to summaris
 
 5. You will enter root bash command line, type the following
 
-   **passwd username** 
-
-for example passwd parallels
+   **passwd username** ( for example passwd parallels)
 
 6. You will be offered to add new password and confirm
 
