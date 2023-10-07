@@ -1,9 +1,11 @@
-### parallels_macOS_kali_password_reset
+### Parallels macOS Kali Password Reset
 
 I've been lately using my Windows box more often for hacking due to all of the famous M1 chip thing in Macbook Pro.
 Therefore my parallels on macOS box was left aside enough time to forget the password. Oh-oh...
 
 If this sounds familiar - THIS IS FOR YOU!
+
+It took me multiple resources to get to where I needed and I decided to summarise steps that actually worked in this case.
 
 1. Reboot Parallels and press E
 
