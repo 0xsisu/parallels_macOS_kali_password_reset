@@ -17,5 +17,15 @@ If this sounds familiar - THIS IS FOR YOU!
 
 4. Hit Ctrl-x to boot
 
-5. You will enter this:
+5. You will enter root bash command line, type the following
+
+passwd <username> 
+
+for example passwd parallels
+
+6. You will be offered to add new password and confirm
+
+7. reboot (sometimes it doesn't work so you will have to reboot the host. Yeah, I know...make sure you SAVED whatever needed prior.)
+
+Hope that helped :)
 
