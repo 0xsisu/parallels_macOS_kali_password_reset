@@ -19,7 +19,7 @@ If this sounds familiar - THIS IS FOR YOU!
 
 5. You will enter root bash command line, type the following
 
-passwd <username> 
+   **passwd username** 
 
 for example passwd parallels
 
